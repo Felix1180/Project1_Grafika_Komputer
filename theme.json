@@ -1,0 +1,54 @@
+{
+    "horizontal_slider": {
+        "colours": {
+            "dark_bg": "#fefefe"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "20",
+            "enable_arrow_buttons": "0",
+            "border_width": "2",
+            "sliding_button_width": "20"
+        }
+    },
+    "horizontal_slider.button": {
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "1"
+        }
+    },
+    "horizontal_slider.#sliding_button": {
+        "colours": {
+            "normal_bg": "#d2d3d5",
+            "normal_border": "#000000"
+        }
+    },
+    "text_entry_line": {
+        "colours": {
+            "dark_bg": "#fefefe",
+            "normal_text": "#000000",
+            "selected_bg": "#d0d0d0"
+
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "5",
+            "border_width": "1"
+        }
+    },
+    "button": {
+        "colours": {
+            "normal_text": "#000000",
+            "normal_bg": "#d2d3d5",
+            "normal_border": "#000000"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "2",
+            "text_horiz_alignment": "center",
+            "text_vert_alignment": "center"
+        }
+    }
+}
